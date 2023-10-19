@@ -1,0 +1,4 @@
+MONGO_DATABASE="movies-api-db"
+MONGO_USER="sapshrestha95"
+MONGO_PASSWORD="sap123"
+MONGO_CLUSTER="cluster0.jgwhsj2.mongodb.net/"
